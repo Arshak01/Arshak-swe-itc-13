@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
- </p>
+ </p/n>
 
  ## **<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h3>**
 <p align="center">
