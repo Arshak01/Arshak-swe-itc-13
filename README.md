@@ -2,17 +2,18 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
+</br>
 
-<h2> 👨🏻‍💻 About Me </h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Soon to be a software engineer .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+</br> 
  
- 
-<h2>Programming languages</h2>
+<h3>Programming languages</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="250px" width="400px"  alt="Computador">
 
@@ -28,9 +29,9 @@
 
  </p>
  
+ </br>
 
-
- ## **<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h2>**
+ ## **<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h3>**
 <p align="center">
 
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
