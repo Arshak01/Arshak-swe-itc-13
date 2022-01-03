@@ -10,7 +10,7 @@
 - 💼 &nbsp; Soon to be a software engineer .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-
+<br>
  
 <h2>Programming languages</h2>
 
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
- </p/n>
+ </p>
 
  ## **<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h3>**
 <p align="center">
