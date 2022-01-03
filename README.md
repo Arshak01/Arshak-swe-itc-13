@@ -1,9 +1,9 @@
-# <h2>Hey there! I'm Arshak.</h2>
+<h2>Hey there! I'm Arshak.</h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
  
 
-## <h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
