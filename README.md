@@ -2,8 +2,8 @@
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
-## <h3> 👨🏻‍💻 About Me </h3>
-
+<h3> 👨🏻‍💻 About Me </h3>
+##
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Soon to be a software engineer .
@@ -12,8 +12,9 @@
  
  <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-## <h3> 👨🏻‍💻 Mais sobre mim </h3>
- 
+
+ <h3> 👨🏻‍💻 Mais sobre mim </h3>
+ ## 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250px" align="right" alt="Computador">
 
 
