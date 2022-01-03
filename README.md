@@ -14,9 +14,10 @@
  
  
  
+<h3> 👨🏻‍💻 Mais sobre mim </h3>
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250px" align="right" alt="Computador">
-## Mais sobre mim
+
 
 ```kotlin
 object **SEU NOME** {
