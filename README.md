@@ -11,7 +11,7 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
-## **<h3> Programming languages   </h3>**
+<h3> Programming languages   </h3>
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250px" align="right" alt="Computador">
