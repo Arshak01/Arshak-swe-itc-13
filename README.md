@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Arshak.</h2>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="400px" width="400px"  alt="Computador">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,14 +12,12 @@
 
 
 
-<h2>Programming languages</h2>
+## <h2>Programming languages</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="350px" width="400px"  alt="Computador">
 
 
 <p align="center">
- 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</br>
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)</br>
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)</br>
