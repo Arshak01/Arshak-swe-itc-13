@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Arshak.</h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
-
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
