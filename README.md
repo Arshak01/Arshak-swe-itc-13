@@ -29,8 +29,6 @@ object **SEU NOME** {
 ```
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
 
 
 ## **Linguagens e Ferramentas:**  
@@ -44,7 +42,7 @@ object **SEU NOME** {
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-## **<h4> 🤝🏻 Connect with Me </h4>**
+## **<h4> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 🤝🏻 Connect with Me </h4>**
 <p align="center">
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
