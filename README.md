@@ -4,7 +4,8 @@
 
 </br>
 
-<h2> 👨🏻‍💻 About Me </h2>
+ 
+<h2>👨🏻‍💻 About Me</h2>
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
