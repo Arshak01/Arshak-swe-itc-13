@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Arshak.</h2> 
+<h3>Hey there! I'm Arshak.</h3> 
 
 <h2>👨🏻‍💻 About Me</h2>
 
