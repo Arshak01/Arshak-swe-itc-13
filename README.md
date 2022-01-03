@@ -1,4 +1,4 @@
-<h1>Hey there! I'm Arshak.</h1>
+<h2>Hey there! I'm Arshak.</h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
@@ -10,7 +10,7 @@
 - 💼 &nbsp; Soon to be a software engineer .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-</br>
+ 
  
 <h2>Programming languages</h2>
 
@@ -28,7 +28,7 @@
 
  </p>
  
- </br>
+
 
  ## **<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h2>**
 <p align="center">
