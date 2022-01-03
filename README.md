@@ -1,6 +1,7 @@
- ### Oie devs 👋
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+<h3> 👨🏻‍💻 About Me </h3>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
