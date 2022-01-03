@@ -36,7 +36,7 @@ object **SEU NOME** {
 ## **Linguagens e Ferramentas:**  
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)<br/>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -44,7 +44,7 @@ object **SEU NOME** {
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-#### **<h4> 🤝🏻 Connect with Me </h4>**
+## **<h4> 🤝🏻 Connect with Me </h4>**
 <p align="center">
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
