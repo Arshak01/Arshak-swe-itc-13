@@ -15,17 +15,17 @@
 
 
  
-##  **<h4> Connect with Me </h4>**
+##  **<h3> Connect </h3>**
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador">
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</br>
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)</br>
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)</br>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)</br>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)</br>
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
 
