@@ -1,9 +1,10 @@
-<h2> Hey there! I'm Arshak.
-</h2>
+<h2> Hey there! I'm Arshak.</h2>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Soon to be a software engineer .
@@ -14,6 +15,7 @@
 
 
  <h3> 👨🏻‍💻 Mais sobre mim </h3>
+ 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250px" align="right" alt="Computador">
 
 
@@ -42,7 +44,7 @@ object **SEU NOME** {
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-## **<h4> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 🤝🏻 Connect with Me </h4>**
+##  **<h4> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h4>**
 <p align="center">
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
