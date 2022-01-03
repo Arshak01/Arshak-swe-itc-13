@@ -9,7 +9,7 @@
 - 💼 &nbsp; Soon to be a software engineer .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-</br> 
+</br></br></br>
  
 <h2>Programming languages</h2>
 
