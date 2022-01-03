@@ -28,7 +28,7 @@
  
  </br>
 
-## **<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h2>**
+## **<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h3>**
 <p align="center">
 
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
