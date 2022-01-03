@@ -14,8 +14,9 @@
  <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 
-
-## <h3> 👨🏻‍💻 About Me </h3>
+ 
+##  **<h4> Connect with Me </h4>**
+<p align="center">
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador">
 
