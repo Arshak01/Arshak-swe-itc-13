@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Arshak.
 </h2>
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
