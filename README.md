@@ -13,6 +13,9 @@
  
 <h2>Programming languages</h2>
 
+  
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="250px" width="400px"  alt="Computador">
+ 
  <p align="right">
  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</br>
@@ -22,9 +25,10 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="250px" width="400px"  alt="Computador">
+</p>
+  
+
  
-  </p>
   
  
  </br>
