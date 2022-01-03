@@ -1,10 +1,9 @@
 <h2> Hey there! I'm Arshak.
 </h2>
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
 
+<h3> 👨🏻‍💻 About Me </h3>
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Soon to be a software engineer .
@@ -15,7 +14,6 @@
 
 
  <h3> 👨🏻‍💻 Mais sobre mim </h3>
- 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="250px" align="right" alt="Computador">
 
 
@@ -31,7 +29,7 @@ object **SEU NOME** {
 ```
 
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 
