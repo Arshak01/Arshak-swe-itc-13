@@ -11,7 +11,7 @@
 
 </br> 
  
-<h3>Programming languages</h3>
+<h2>Programming languages</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" min-width="400px" max-width="250px" width="400px"  alt="Computador">
 
