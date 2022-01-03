@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Arshak.<hr></h2>
+<hr><h2> Hey there! I'm Arshak.</h2><hr>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
  
