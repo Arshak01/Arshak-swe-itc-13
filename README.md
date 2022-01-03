@@ -13,7 +13,7 @@
  
 <h2>Programming languages</h2>
 
- <p align="center">
+ <p align="right">
  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</br>
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)</br>
