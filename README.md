@@ -1,9 +1,9 @@
-<h2>Hey there! I'm Arshak.</h2>
+<h1>Hey there! I'm Arshak.</h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -30,7 +30,7 @@
  
  </br>
 
- ## **<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h3>**
+ ## **<h2> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with Me </h2>**
 <p align="center">
 
 &nbsp; <a href=" " target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
