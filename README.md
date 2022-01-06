@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
