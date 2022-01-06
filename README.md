@@ -1,7 +1,7 @@
 <h3>Hey there! I'm Arshak.</h3> 
 
 <h2>👨🏻‍💻 About Me</h2>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="250px"  alt="Computador">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="400px"  alt="Computador">
 
 - 🔭 &nbsp; I’m currently learning GIT.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
