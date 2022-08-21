@@ -1,0 +1,5 @@
+#!/bin/bash
+
+chmod a+x clearDesktopAfterShoudown.sh
+cp ./clearDesktopAfterShoudown.sh /etc/init.d/
+sudo ln -s /etc/init.d/clearDesktopAfterShoudown /etc/rc6.d/K99clearDesktop

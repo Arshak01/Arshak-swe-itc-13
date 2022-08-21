@@ -1,0 +1,44 @@
+{
+   "users": [
+    {
+      "id": 1,
+      "name": "Tigran"
+    },
+    {
+      "id": 2,
+      "name": "Vardan"
+    },
+    {
+      "id": 3,
+      "name": "Qristine"
+    },
+    {
+      "id": 4,
+      "name": "Zaven"
+    },
+    {
+      "id": 5,
+      "name": "Sevan"
+    },
+    {
+      "id": 6,
+      "name": "Margarita"
+    },
+    {
+      "id": 7,
+      "name": "Alen"
+    },
+    {
+      "id": 8,
+      "name": "Angela"
+    },
+    {
+      "id": 9,
+      "name": "Arshak"
+    },
+    {
+      "id": 10,
+      "name": "Alina"
+    }
+  ]
+}

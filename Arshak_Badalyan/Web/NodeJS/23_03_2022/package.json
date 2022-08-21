@@ -1,0 +1,17 @@
+{
+  "name": "23_03_2022",
+  "version": "1.0.0",
+  "description": "Created an API for \"Users\" database that contains an object which contain array from objects that have \"id\" and \"name\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "fs": "^8.5.0"
+  }
+}

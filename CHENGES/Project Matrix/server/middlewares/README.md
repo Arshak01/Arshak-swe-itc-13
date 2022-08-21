@@ -1,0 +1,3 @@
+# The following valid JWT token can be used for auth bypass.
+
+`eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.BLgXj9iGsdvCc7gidHvb5C28tVSKk0UbIwMfghetG7s`

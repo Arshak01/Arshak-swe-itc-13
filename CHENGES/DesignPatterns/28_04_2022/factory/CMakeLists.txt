@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(FACTORY)
+set(SHAPE Shape.hpp)
+set(SQUARE Square.cpp)
+set(CIRCLE Circle.cpp)
+set(RECTANGLE Rectangle.cpp)
+set(SHAPEFACTORY ShapeFactory.cpp)
+set(MAIN main.cpp)
+
+add_executable(main.out ${SHAPE} ${SQUARE} ${CIRCLE} ${RECTANGLE} ${SHAPEFACTORY} ${MAIN} )

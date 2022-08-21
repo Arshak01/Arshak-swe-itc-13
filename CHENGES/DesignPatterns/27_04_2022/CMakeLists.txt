@@ -1,0 +1,6 @@
+Cmake_minimum_Required(VERSION 3.10)
+project(Proxy)
+file(GLOB C_SOURCES *)
+add_subdirectory(proxy)
+add_executable(main ${C_SOURCES})
+target_link_libraries(main proxy)

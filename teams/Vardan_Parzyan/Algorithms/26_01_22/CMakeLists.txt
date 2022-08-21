@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(UglyNum)
+project(UglyNum2)
+add_executable(UglyNum UglyNumLoop.cpp)
+add_executable(UglyNum2 UglyNum.cpp)

@@ -1,0 +1,23 @@
+Hi all,
+Please see my report for today below:
+Today the following tasks have been done:
+
+Task 1: Done
+        Description: Write a function for swapping two variable values.
+        The function should have been implemented for each basic data type.
+                     - swap(int a, int b)// use pointer instead
+                     - swap(float a, float b)// use pointer instead
+                     - swap(double a, double b)// use pointer instead
+
+Task 2: Done
+        Description: Write an application that includes such functionalities.
+                     - sort a static array with ascending order
+                     - sort a static array with descending order
+                      - revers static array
+                      - print array
+
+Link:
+          
+                         
+Thanks,
+Arshak Badalyan

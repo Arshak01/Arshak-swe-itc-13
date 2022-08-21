@@ -1,0 +1,118 @@
+.container1{
+    display: flex;
+    background-image: url(./Images/Second/Rectangle\ 22.svg);
+    background-size: cover;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 1080px;
+}
+
+.h1{
+    color: aliceblue;
+}
+
+.images{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.col-lg-4{
+    display: grid;
+}
+.samalyot2{
+    display: grid;
+    justify-items: end;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+
+}
+
+.secondpage{
+    background-color: #E8E8E8;
+}
+.secondpage1{
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+.secondimages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.secondimages2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-between;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.secondimages3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    height: auto;
+}
+
+.secondimages1 > img{
+
+    max-width: 100%;
+    max-height: 100%;
+}
+.secondimages2 > img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.secondimages4{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.thirdhead{
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #E8E8E8;
+}
+
+.thirdpage{
+    display: flex;
+}
+
+.carousel-item{
+    max-height: 50%;
+}
+.carousel-inner > .item > img {
+    min-width: 100%;
+    height: 300px;
+}
+
+.thirdtext{
+   margin-top: 200px;
+    display: grid;
+}
+
+.thirdtextcolor{
+    display: flex;
+    padding-left: 500px;
+    color: black;
+}
+
+.sectionsuscribe{
+    display: grid;
+    justify-items: center
+
+}
+
+
+
+

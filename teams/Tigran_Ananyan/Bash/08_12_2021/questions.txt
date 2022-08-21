@@ -1,0 +1,10 @@
+1 What is the third planet of the sun?#1) Venus 2) Earth 3)Mars 4) Saturn#2
+2 Which colour pill does Neo swallow in The Matrix?# 1) orange 2) red 3) blue 4) green # 2
+3 What is the capital city of Australia?# 1) Sidney 2) Adelaida 3) Darvin 4) Canberra # 4
+4 What language is spoken in Brazil?# 1) Spanish 2) Portuguese3) Brazilian 4) English #2
+5 How many hearts does an octopus have?# 1) 2 2) 1 3) 3 4) 0 # 1
+6 Elon Musk is the CEO of which global brand?# 1)  Hyper Loop 2) Tesla 3) SpaceX 4) Amazon # 2
+7 Which year did the European Union first introduce the Euro as currency?#  1) 1997 2) 2003 3) 1989 4) 1999 # 4
+8 Construction of which of these famous landmarks was completed first?# 1) Empire State Building 2) Royal Albert Hall 3) Eiffel Tower 4) Big Ben Clock Tower # 4
+9 Which state in the United States is largest by area?# 1) Alaska 2) California 3) Texas 4) Washington # 1
+10 On average how far away is the moon from the earth in miles?# 1) 124000 2) 524000 3) 138000  4) 238000 # 3

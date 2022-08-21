@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+set(B_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/divv.cpp ${CMAKE_CURRENT_SOURCE_DIR}/divv.hpp)
+add_library(b SHARED ${B_SOURCES})
+ 

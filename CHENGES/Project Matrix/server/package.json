@@ -1,0 +1,47 @@
+{
+  "name": "project-matrix-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "node ./swagger.js",
+    "nodemon": "nodemon index.js",
+    "lint:check": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write ."
+  },
+  "pre-commit": [
+    "lint:check",
+    "format:check"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "formidable": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "path": "^0.12.7",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^5.22.3",
+    "swagger-autogen": "^2.21.1",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.30.0",
+    "nodemon": "^2.0.16",
+    "pre-commit": "^1.2.2",
+    "sequelize-cli": "^6.4.1"
+  }
+}

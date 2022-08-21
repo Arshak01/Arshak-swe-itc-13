@@ -1,0 +1,17 @@
+{% load static %}
+
+<head>
+    <link rel="stylesheet"  href="{%  static  'css/style.css'  %}">
+    <title>My Webpage</title>
+</head>
+<header>
+
+</header>
+<body class="flex_cont div_space_evenly">
+    <h1>Welcome to Website</h1>
+    <div class="flex_cont border_style cont ">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+

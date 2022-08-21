@@ -1,0 +1,32 @@
+
+CREATE DATABASE OneToOne;
+USE OneToOne;
+
+CREATE TABLE Passport(
+    PassportId int NOT NULL AUTO_INCREMENT,
+    serialNumber int UNIQUE,
+    PRIMARY KEY(PassportId)
+);
+
+CREATE TABLE Person(
+    PersonId int NOT NULL AUTO_INCREMENT,
+    name varchar(20),
+    lastname varchar(20),
+    FK_PassportId int UNIQUE,
+    PRIMARY KEY(PersonId),
+    FOREIGN KEY(FK_PassportId) REFERENCES Passport(PassportId)
+);
+
+
+INSERT into Passport(serialNumber) VALUES (156765);
+INSERT into Passport(serialNumber) VALUES (156565);
+INSERT into Person (name,lastname,FK_PassportId) VALUES ('Sargis', 'Hambaryan',1);
+INSERT into Person (name,lastname,FK_PassportId) VALUES ('Arshak', 'Badalyan',2);
+
+SELECT * FROM Person;
+SELECT * FROM Passport;
+
+DROP TABLE Person;
+DROP TABLE Passport;
+
+DROP DATABASE OneToOne;

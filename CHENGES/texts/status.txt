@@ -1,0 +1,67 @@
+
+
+Hi all,
+Please see my report for today below:
+Today the following tasks have been done:
+
+Task 1: Done
+Description:  Algorithms, write Merge and Bubble sorts.
+Bubble sort  -> Done
+Merge sort -> Done
+Selection sort -> Done
+Insertion sort  -> Done
+
+Link:
+ 
+
+Thanks,
+Arshak Badalyan
+
+
+Hi all,
+Please see my report for today below:
+
+Task 1:Done
+Description: Write an SQL query to report the second highest salary from the Employee table.
+Task 2: In progress 10%
+Description:Write an SQL query to find all numbers that appear at least three times consecutively.
+Task 3: Not Done
+Description: Write an SQL query to find employees who have the highest salary in each of the departments.
+Task 4: In progress 80%
+Description: Continue last homework
+            
+Thanks,
+Arshak Badalyan
+
+
+
+
+
+Hi all,
+Please see the report for today bellow:
+
+Task 1:  Create web page like example of website - In Progress [<40> %]
+
+Additional:
+https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+https://htmlcheatsheet.com/css/
+https://icons8.com/icon/set/popular/ios--green
+Thanks,
+Arshak Badalyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

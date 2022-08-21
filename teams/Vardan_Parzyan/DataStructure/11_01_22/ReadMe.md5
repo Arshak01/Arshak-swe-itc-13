@@ -1,0 +1,14 @@
+If you do not know what is "CMake" just close this page or call someone who knows 😃️
+
+for those who are enlightened
+1. just move the "CMake" folder to a convenient place for you (e.g home/username/test)
+2. open termiinal and go to that directory
+3. use command "cmake ." (if you get an error. just google it ))))
+4. use command "make" after that you will get executable file.
+5. just use command " ./filename".
+
+PS Thanks for taking the time to read this.
+
+PSS The author is not responsible for any harm caused to your computer
+
+

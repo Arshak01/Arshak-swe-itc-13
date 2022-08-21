@@ -1,0 +1,156 @@
+openapi: 3.0.2
+info:
+  title: "Swagger for Homework"
+  description: 'This is my first swagger'
+  version: 1.0.0
+servers:
+- url: http://localhost:3000
+tags:
+- name: users
+  description: Operations about user
+paths:
+
+  /users:
+    get:
+      tags:
+        - "users"
+      summary: Find all user
+      security:
+        - basicAuth: []
+      responses:
+        200:
+          description: Successful operation
+        400:
+          description: Invalid Id
+    post:
+      tags:
+      - "users"
+      summary: Create user
+      description: This can only be done by the logged in user.
+      operationId: createUser
+      requestBody:
+        description: Created user object
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CreateUser'
+        required: true
+      responses:
+        default:
+          description: successful operation
+      x-codegen-request-body-name: body
+
+  /users/login/{Name}/{Password}:
+    get:
+      tags:
+      - users
+      summary: Logs users into the system
+      operationId: loginUser
+      parameters:
+      - name: Name
+        in: path
+        description: The user name for login
+        required: true
+        schema:
+          type: string
+      - name: Password
+        in: path
+        description: The password for login in clear text
+        required: true
+        schema:
+          type: string
+      responses:
+        200:
+          description: Successful operation
+        400:
+          description: Invalid username or password inputed
+
+  /users/{id}:
+    get:
+      tags:
+        - "users"
+      summary: Find user by Id
+      parameters:
+      - name: id
+        in: path
+        description: Enter user Id
+        required: true
+        schema:
+          type: integer
+          format: "int32"
+      responses:
+        200:
+          description: Successful operation
+        400:
+          description: Invalid Id
+    delete:
+      tags:
+        - "users"
+      summary: Delete user by Id
+      parameters:
+      - name: id
+        in: path
+        description: Enter user Id to delete
+        required: true
+        schema:
+          type: string
+      responses:
+        200:
+          description: Successful operation
+        400:
+          description: Invalid Id
+    put:
+      tags:
+        - "users"
+      summary: Update user by Id
+      parameters:
+      - name: id
+        in: path
+        description: Enter user Id
+        required: true
+        schema:
+          type: string
+      requestBody:
+        description: User object that needs to be added to the store
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UpdateUser'
+        required: true
+      responses:
+        200:
+          description: Successful operation
+        400:
+          description: Invalid Id
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+  schemas:
+    UpdateUser:
+        type: object
+        properties:
+          Name:
+            type: string
+          SurName:
+            type: string
+          Email:
+            type: string
+        xml:
+          name: User
+    CreateUser:
+        type: object
+        properties:
+          Name:
+            type: string
+          SurName:
+            type: string
+          Email:
+            type: string
+          Password:
+            type: string
+        xml:
+          name: User

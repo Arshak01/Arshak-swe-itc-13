@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script defer src="./script.js"></script>
+    <script defer src='https://cdn.plot.ly/plotly-2.9.0.min.js'></script>
+    <link rel="stylesheet" href="./stylesheet.css">
+</head>
+<body>
+    <div class="contain">
+    <div class="container">
+    <div>
+        <form class="form-component" id="form_id">
+            <h2>Insert Data</h2>
+            <input name="name" class="input-element name-input" placeholder="Name" id = "name" required>
+            <input name="investment" class="input-element investment-input" placeholder="Investment" type="number" min="0" id='investment'required>
+            <button class="btn" type="submit">Submit</button>
+        </form>
+    </div>
+    <div class="logo">
+        <img src="./ITC_logo.png">
+    </div>
+    </div>
+    <div class="diagram">
+        <div id="myDiv"></div>
+    </div>
+    </div>
+    </div>
+</body>
+</html>

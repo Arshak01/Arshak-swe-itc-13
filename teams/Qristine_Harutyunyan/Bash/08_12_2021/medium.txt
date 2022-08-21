@@ -1,0 +1,36 @@
+Which Command is used to count the total number of lines, words, and char in a file?
+1.countw
+2. wcount
+3. wc
+4. count p
+
+ Command - remove the directory
+1. rdir
+2. remove
+3. rm
+4. rmdir
+
+ Command is used to remove file?
+ 1. dm
+ 2. rm
+ 3. delete
+ 4. erase
+ 
+ Command is used to list contents of directories?
+ 1. tar
+ 2. dir
+ 3. lp
+ 4. ls
+ 
+ Which is command in Linux?
+ 1. w
+ 2. x
+ 3. t
+ 4. All 
+ 
+ Which is the largest non-commercial Linux Distribution?
+ 1. Debian
+ 2. Ubuntu
+ 3. Fedora 
+ 4. Mint
+ 

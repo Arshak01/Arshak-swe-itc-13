@@ -1,0 +1,266 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "version": "3.0.2",
+    "title": "Swaggers",
+    "description": "This is my swagger tasks"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000/"
+    },
+    {
+      "url": "https://localhost:3000/"
+    }
+  ],
+  "tags": [
+    {
+      "name": "User",
+      "description": "Endpoints"
+    }
+  ],
+  "paths": {
+    "/users/": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get users ",
+        "description": "Get all users",
+        "operationId": "getUsers",
+        "parameters": [
+          {
+            "name": "{  bearerAuth: ",
+            "bearerAuth": [],
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Creat user ",
+        "description": "Input user` name,surname,email,password and creat user, token wich response back",
+        "operationId": "createUser",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/CreateUser"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/login": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Login ",
+        "description": "Login page.",
+        "operationId": "login",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Genereted token"
+          },
+          "401": {
+            "description": "User not found"
+          },
+          "500": {
+            "description": "server not found"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/Login"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/{id}": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get user by id ",
+        "description": "Input id of user and get user data",
+        "operationId": "getUserById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "get user"
+          },
+          "500": {
+            "description": "server not found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Update user by id ",
+        "description": "Find user by id and update user.",
+        "operationId": "updateUserById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "updated"
+          },
+          "500": {
+            "description": "server not found"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/UpdateUser"
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Delete user by id ",
+        "description": "Find user by id and delete that user.",
+        "operationId": "deleteUserById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Deleted"
+          },
+          "500": {
+            "description": "server not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "CreateUser": {
+      "type": "object",
+      "properties": {
+        "Name": {
+          "type": "string",
+          "required": false
+        },
+        "SurName": {
+          "type": "string",
+          "required": false
+        },
+        "Email": {
+          "type": "string",
+          "required": false
+        },
+        "Password": {
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "Login": {
+      "type": "object",
+      "properties": {
+        "Name": {
+          "type": "string",
+          "required": false
+        },
+        "Password": {
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "UpdateUser": {
+      "type": "object",
+      "properties": {
+        "Name": {
+          "type": "string",
+          "required": false
+        },
+        "SurName": {
+          "type": "string",
+          "required": false
+        },
+        "Email": {
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  }
+}

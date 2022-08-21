@@ -1,0 +1,37 @@
+.t_light_grey{
+    color:rgb(228, 228, 228);
+}
+.t_dark_grey{
+    color:rgb(165, 165, 165);
+}
+.bg_dark_grey{
+    background:rgb(204, 204, 204);
+}
+
+.hidePoint{
+    list-style: none;
+}
+
+.container-fluid:hover > a , .nav-item:hover > a{
+    color:rgb(168, 168, 168);
+
+}
+.form-check {
+    padding-left: 3.5em;
+}
+.form-check > *{
+    margin-left: 5px;
+}
+.bg_img{
+    background: url(https://media.istockphoto.com/photos/green-leaves-abstract-flora-texture-picture-id1192128270?k=20&m=1192128270&s=612x612&w=0&h=eOykyEwkYCRKoFhMjVX84-vT0NezEPeN2cABW2k6_U0=)center/cover;
+}
+
+
+.bg_red{
+    background: red;
+}
+
+.bg_blue{
+    background: rgb(0, 47, 255);
+}
+

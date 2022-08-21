@@ -1,0 +1,6 @@
+#!/bin/bash
+# it must be in /etc/init.d/ path
+# make this file exequtable chmod +x /etc/init.d/delete_temp
+# create symlink  ln -s /etc/init.d/delete_temp /etc/rc6.d/K04delete_temp
+rm /Desktop/*.temp
+

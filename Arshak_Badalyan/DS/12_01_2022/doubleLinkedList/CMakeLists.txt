@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(DLinkedList)
+set(TASK main.cpp)
+set(DLINKEDLIST DLinkedList.cpp)
+set(NODE Node.cpp)
+add_executable(DLinkedList.out ${TASK} ${DLINKEDLIST} ${NODE})

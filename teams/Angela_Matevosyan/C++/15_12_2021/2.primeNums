@@ -1,0 +1,57 @@
+#include <iostream>
+void primeInRangeLoop(int left, int right)
+{
+	bool flag;
+	for (int i = left; i <= right; ++i)
+	{
+		if (i == 1 || i == 0)
+			continue;
+		flag = true;
+		for (int j = 2; j <= i / 2; ++j)
+		{
+			if (i % j == 0)
+			{
+				flag = false;
+				break;
+			}
+		}
+
+		if (flag)
+			std::cout << i << " ";
+	}
+}
+
+void primeInRangeRecursion(int left, int right)
+{
+	bool flag;
+	if (left <= right)
+	{
+		flag = true;
+		for(int i = 2; i <= left / 2; ++i)
+		{
+			if (left % i == 0)
+			{
+				flag = false;
+				break;
+			}
+		}
+		if (flag)
+			std::cout << left << " ";
+
+	primeInRangeRecursion((left + 1), right);
+	}
+}
+
+int main()
+{
+	int left;
+	int right;
+	std::cout << "Please input range: ";
+	std::cin >> left >> right;
+	std::cout << "The prime numbers from (" << left << " -> " << right << ") range by loop are: ";
+	primeInRangeLoop(left, right);
+	std::cout << std::endl;
+	std::cout << "The prime numbers from (" << left << " -> " << right << ") range by recursion are: ";
+	primeInRangeRecursion(left, right);
+	return 0;
+}

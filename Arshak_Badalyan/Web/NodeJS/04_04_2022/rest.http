@@ -1,0 +1,25 @@
+GET http://localhost:3000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyRGF0YSI6eyJpZCI6MSwiTmFtZSI6IkdlcmFyZCIsIlN1ck5hbWUiOiJCdXRsZXIiLCJBZ2UiOjUyLCJQYXNzd29yZCI6IiQyYiQxMCRWN215U1UxdG11ZVVoRC83aDJNb211a0dMVmJscE9NTGlQRkRLdU95UzJPN3JhaG8uMEdjLiIsImNyZWF0ZWRBdCI6IjIwMjItMDQtMDNUMjA6MDI6NDEuMDAwWiIsInVwZGF0ZWRBdCI6IjIwMjItMDQtMDNUMjA6MDI6NDEuMDAwWiJ9LCJpYXQiOjE2NDkwMTYxNjYsImV4cCI6MTY0OTAxNjc2Nn0.lHZapayp3hDVLLquUrIysAGCz0pl4BUXaEpGJ2hftmw
+###
+POST http://localhost:3000/users/
+  content-type: application/json
+
+    {
+      "Name": "Armen",
+      "SurName": "Hakobyan",
+      "Email": "a@gmail.com",
+      "Password": "Password"
+    }
+###
+GET http://localhost:3000/users/1
+###
+PUT http://localhost:3000/users/1
+    content-type: application/json
+
+    {
+       "Name": "Harut"
+    }
+###
+DELETE http://localhost:3000/users/1
+###
+GET http://localhost:3000/users/login/Harut/Password

@@ -1,0 +1,23 @@
+{
+  "name": "30_03_2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "...Important npm i express body-parser sequelize sequelize-cli     and install REST Client Extension. This project has been created using **NodeJS**, you can now run",
+  "dependencies": {
+    "argon2": "^0.28.5",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0",
+    "sequelize-auto-migrations": "^1.0.3",
+    "sequelize-cli": "^6.4.1"
+  },
+  "devDependencies": {}
+}

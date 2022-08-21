@@ -1,0 +1,6 @@
+Cmake_minimum_Required(VERSION 3.10)
+project(Builder)
+file(GLOB C_SOURCES *)
+add_subdirectory(builder)
+add_executable(main ${C_SOURCES})
+target_link_libraries(main builder)

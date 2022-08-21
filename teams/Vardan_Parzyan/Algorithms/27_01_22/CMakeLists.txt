@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(countBuildings)
+project(countBuildings)
+add_executable(countBuildings main.cpp)
+add_executable(belmanFord belmanMain.cpp)

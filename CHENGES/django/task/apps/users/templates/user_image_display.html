@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Name - {{user.username}}</h1>
+    <h3>Images title : {{ Image.objects}}</h3>
+    <img src="{{ Images.url}}" alt="image" style="max-height:200px">
+    <a class="btn" href="{% url 'dashboard' %}">Back to dashboard</a>
+{% endblock %}
+
+

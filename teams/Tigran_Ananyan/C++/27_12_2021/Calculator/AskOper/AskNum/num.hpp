@@ -1,0 +1,1 @@
+int askNumber(int n);

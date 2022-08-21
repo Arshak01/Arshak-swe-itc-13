@@ -1,0 +1,49 @@
+What fell on Newton's head?
+
+1)Hammer🔨️        2)Apple🍎️
+3)Smartphone📱️    4)Wife👧️
+
+What is GIT?
+
+1)Ice-cream🍦️         2)Gays International Team 🏳️‍🌈️
+3)Car 🚗️              4)Version control system 🔃️
+
+What kind of aircraft used by Aladdin?
+
+1)Magic carpet ~~     2)Boeing 747🛫️
+3)SU-34✈️             4)Scout drone🛸️
+
+With what additive do they most often drink whiskey ?
+
+1)Ice + cola🥃️	  	      2)Pineapple🍍️
+3)chili+lemon juice🌶️+🍋️     4)Suhsi🍣️
+
+LINUX. what is not a Regular file type?
+
+1)txt🗒️            2)jpg 🖼️
+3)mp4 🎥️           4)symbolic link 🔗️
+
+How many levels are in the TCP/IP model ?
+
+1)7           2)5
+3)6           4)4
+
+VIM movement commands are?
+
+1)h,j,k,l       2)m,k,l,p
+3)q,w,e,r       4)what is VIM?
+
+How many computers can be in network with /24 mask?
+
+1)256    2)512
+3)510    4)254
+
+What year did the Titanic sink in the Atlantic Ocean?
+
+1)1912		3)1915
+2)1896		4)2021
+
+Who painted the picture "Mona Lisa" ?
+
+1)Leonardo Dicaprio 	3)Salvador Dalli
+2)Leonardo da Vinci	4)Hovhannes Aivazian

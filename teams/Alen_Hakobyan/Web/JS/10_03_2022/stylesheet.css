@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(218, 215, 212);
+    background-image: url("./ITC_logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center right 55%;
+}
+
+.btn {
+    background-color:rgb(0, 0, 0);
+    color: white;
+    width: 150px;
+    height: 64px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    transition: '1500ms';
+    cursor: pointer;
+}
+
+.form-component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-color: rgb(0, 158, 61);
+    color: black;
+}
+.input-element {
+    font-size: 20px;
+    height: 28px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.flexmlex {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 600px;
+}
+
+.container {
+    border: '1px solid #000';
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    padding: 25px;
+}
+td {
+    padding: 0px 25px 0px 25px;
+}

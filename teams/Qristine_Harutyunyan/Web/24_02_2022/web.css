@@ -1,0 +1,187 @@
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,  article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+  }
+  /* HTML5 display-role reset for older browsers */
+  article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+  }
+  body {
+    line-height: 1;
+  }
+  ol, ul {
+    list-style: none;
+  }
+  blockquote, q {
+    quotes: none;
+  }
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+form{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    display: inline-flex;
+    
+}
+.laptop ul {
+    list-style-type: circle;
+    display: inline-block;
+    align-items: center;
+    
+  }
+  
+
+.input-container button{
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: yellowgreen;
+}
+.input-container input {
+    vertical-align: middle;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+.but3{
+  margin-top: 20px;
+  padding: 5px;
+}  
+
+.flex-container {
+    width: 80%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+
+  }
+  #buttom {
+      background-color: yellowgreen;
+  }
+
+.flex-container li{
+    display: inline;
+    margin-right: 40px;
+}
+footer li{
+  display: inline;
+  margin-right: 40px;
+}
+footer  {
+  margin: 30px;
+  text-align: center;
+  background-color: rgb(212, 207, 207);
+}
+#blue{
+  background-color: rgb(76, 76, 189);
+}
+#home{
+    padding: 7px;
+    background-color: yellow;
+}
+.layer1{
+    margin-top: 20px;
+    background-color: aqua;
+    text-align: center;
+}
+.layer2, .layer4, .layer5{
+  margin-top: 10px;
+  text-align: center;
+}
+.layer5{
+  background-color: #e9d74c;
+}
+.pic {
+   display: inline-block; position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; 
+}
+.third_part{
+  background-color: #e3d98e;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+ h2 {
+    margin-bottom: 22px;
+}
+
+.serv_line{
+    display: inline-block;
+    margin: 0 1.5%;
+    width: 30%;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.client{
+  display: inline-block;
+  margin: 0 1.5%;
+  width: 30%;
+  text-align: center;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+.layer3{
+  margin-top: 50px;
+  display: flex;
+  text-align: left;
+  justify-content:space-between;
+  background-color: #e3d98e;
+ 
+}
+.Step{
+  padding-left: 100px; 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr
+ 
+
+}
+
+.step_line{
+  width: 60%;
+  text-align: center;
+}
+#start{
+  margin-top: 20px;
+  padding: 5px;
+  background-color: #e9d74c
+ 
+ 
+}
+.mid{
+  width: 100%;
+  margin: auto;
+}
+
+
+.text {
+    padding-top: 50px;
+}
+@media only screen and (max-width: 600px){
+    .flex-container{
+        background-color: rgb(22, 160, 170)
+    }
+}

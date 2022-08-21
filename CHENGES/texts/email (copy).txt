@@ -1,0 +1,29 @@
+Hi all,
+Please see my report for today below:
+Today the following tasks have been done:
+
+Task 4: Done
+Description:  Given a numpy array 'a' that contains n elements, denote by b the set of its unique values ​​in ascending order, denote by m the size of array b. You need to create a numpy array with dimensions n * m, in each row of which there must be a value of 1 in case it is equal to the value of the given index of array b, in other places it must be 0.
+
+Task 5: Done
+Description: Given a 2D numpy array 'a' of sizes $n \times m$. You need to pad the matrix with 0s so that the dimensions of the matrix become  $(n+2n_1) \times (m+2m_1)$
+
+Task 6: Done
+Description: Given a 2D numpy array 'a' of sizes $n \times m$ and a 1D numpy array 'b' of size m. You need to find the distance(Euclidean) of the 'b' vector from the rows of the 'a' matrix. Fill the results in the numpy array.
+Extra points for writing without a loop.
+
+Task 7: Done
+Description: Given a 2D numpy array 'a' of sizes $m \times n$ whose each line is labeled with 0 or 1 numbers and a  vector  (of size n) which is not labeled. You need to find the appropriate label for 'b'. In the 'a' matrix, find the line closest to 'b' (according to the Euclidean distance) and label 'b' with the label of that line.
+
+Task 8: Done
+Description: Given a 2D numpy array 'a' of sizes $m \times n$ with missing elements (NAN) and a string 'mode' $\in$ {"mean","min","max"}. You need to write the {"mean","min","max"} ('mode') of the corresponding column instead of the missing elements.
+
+Task 9: Done
+Description: Write a function to return a 2d array of given size with 1s on the border and 0s inside.
+
+
+Link:
+          
+                         
+Thanks,
+Arshak Badalyan

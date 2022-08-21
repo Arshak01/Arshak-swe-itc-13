@@ -1,0 +1,3 @@
+# We have to write the following on the top of the .bashrc file
+# located in ~/
+echo "Hello $USER"

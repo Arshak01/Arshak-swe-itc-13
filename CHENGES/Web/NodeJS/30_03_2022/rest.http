@@ -1,0 +1,25 @@
+GET http://localhost:3000/users
+###
+POST http://localhost:3000/users/
+  content-type: application/json
+
+    {
+      "Name": "Arman",
+      "SurName": "Titanyan",
+      "Email" : "user@gmail.com",
+      "Password" : "Password"
+    }
+###
+GET http://localhost:3000/users/10
+###
+PUT http://localhost:3000/users/1
+    content-type: application/json
+
+    {
+       "Name": "Gevorgyan"
+    }
+###
+DELETE http://localhost:3000/users/9
+
+###
+GET http://localhost:3000/users/login/Arman/Password

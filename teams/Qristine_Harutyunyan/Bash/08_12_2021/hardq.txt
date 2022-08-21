@@ -1,0 +1,36 @@
+What approach does an application use to communicate with the kernel?
+1. System Calls
+2. C Programs
+3. Shell Script
+4. Shell
+
+Which of the following option of ls command can be used to view file inode number?
+1. –l
+2. -o
+3. –a
+4. –i
+
+ Which of the following actions is performed by <find / -name ‘*’> command?
+1. List all files and directories recursively starting from /
+2. Print a file with name * in /
+3. List all files in / directory
+4. List all files and directories in / directory
+
+Which of the following command is used to view the contents of a compressed text file?
+1. cat
+2. type
+3. zcat
+4. print
+
+Which command creates an empty file if it does not exist?
+1. cat
+2. touch
+3. ed
+4. read
+
+Which option of rm command is used to remove a directory including all its subdirectories?
+1. –b
+2. –o
+3. –p
+4. –r
+

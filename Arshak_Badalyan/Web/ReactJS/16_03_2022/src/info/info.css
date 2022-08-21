@@ -1,0 +1,55 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flex-container-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-info {
+  margin: 0 auto;
+  width: 300px;
+  height: 400px;
+  background: rgba(255, 255, 255, 0.39);
+  padding: 10px;
+  border-radius: 15px;
+  -webkit-box-shadow: 2px 5px 16px 0px #50505093,
+    0px 0px 36px 3px rgba(0, 0, 0, 0.19);
+  box-shadow: 2px 5px 16px 0px #5e5e5eaf, 0px 0px 36px 3px rgba(0, 0, 0, 0.19);
+}
+.container-info:hover {
+  transform: scale(1.01);
+  background: rgba(255, 255, 255, 0.39);
+  transition: 0.5s;
+  -webkit-box-shadow: 2px 5px 16px 0px #50505093,
+    0px 0px 36px 3px rgba(0, 0, 0, 0.19);
+  box-shadow: 2px 5px 16px 0px #5e5e5eaf, 0px 0px 36px 3px rgba(0, 0, 0, 0.19);
+}
+
+.container-info > h1 {
+  font-size: 18px;
+}
+
+.container-info > button {
+  width: 100%;
+  height: 40px;
+  background: rgba(255, 255, 255, 0);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 10px 13px -7px #00000063,
+    0px 0px 14px 3px rgba(0, 0, 0, 0.02);
+  box-shadow: 0px 10px 13px -7px #0000005d, 0px 0px 14px 3px rgba(0, 0, 0, 0.02);
+}
+
+.container-info > button:hover {
+  background: rgba(63, 63, 63, 0.548);
+  color: #ffff;
+}

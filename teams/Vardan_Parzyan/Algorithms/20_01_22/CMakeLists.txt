@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(BFS_DFS)
+project(helloworld)
+add_executable(BFS_DFS main.cpp Graph.cpp)
+add_executable(helloworld helloWorld.cpp)

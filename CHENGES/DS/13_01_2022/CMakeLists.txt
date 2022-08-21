@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(binarySearch)
+set(TASK main.cpp)
+set(BINARYSEARCH binarySearch.cpp)
+set(NODE node.cpp)
+add_executable(binarySearch.out ${TASK} ${BINARYSEARCH} ${NODE})
